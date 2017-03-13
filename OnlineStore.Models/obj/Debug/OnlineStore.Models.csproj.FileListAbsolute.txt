@@ -1,0 +1,7 @@
+D:\CareerManagement\Trov\OnlineStore\OnlineStore.Models\bin\Debug\OnlineStore.Models.dll
+D:\CareerManagement\Trov\OnlineStore\OnlineStore.Models\bin\Debug\OnlineStore.Models.pdb
+D:\CareerManagement\Trov\OnlineStore\OnlineStore.Models\bin\Debug\Newtonsoft.Json.dll
+D:\CareerManagement\Trov\OnlineStore\OnlineStore.Models\bin\Debug\Newtonsoft.Json.xml
+D:\CareerManagement\Trov\OnlineStore\OnlineStore.Models\obj\Debug\OnlineStore.Models.dll
+D:\CareerManagement\Trov\OnlineStore\OnlineStore.Models\obj\Debug\OnlineStore.Models.pdb
+D:\CareerManagement\Trov\OnlineStore\OnlineStore.Models\obj\Debug\OnlineStore.Models.csprojResolveAssemblyReference.cache
